@@ -9,3 +9,6 @@ this is configuration of vim c++
 the ~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py include enviroment configure, compiler flag, include path and so
 
 you can also use YCM-Generator to generate a template
+
+YouCompleteMe Config
+1. https://zhuanlan.zhihu.com/p/33046090
